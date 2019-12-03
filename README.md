@@ -34,3 +34,20 @@ Note: if you fail, may be you have a bad network, just retry.
 ```shell
 bash run.sh
 ```
+
+# Here is a docker
+
+```shell
+sudo docker pull darrenliuzy/easy_marl_docker_image:v1
+```
+
+The git code is put in:
+
+```shell
+/root/github/easy_marl
+```
+
+and then
+```shell
+bash run.sh
+```
